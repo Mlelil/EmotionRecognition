@@ -27,10 +27,14 @@ Project_Folder/
  │    └── app.py
  ├── model1/
  │    ├── best_model.pt
- │    └── normalization_stats.json
+ │    ├── normalization_stats.json
+ │    ├── metrics.png
+ │    └── notbook.ipynb
  └── model2/
       ├── best_model.pt
-      └── normalization_stats.json
+      ├── normalization_stats.json
+      ├── metrics.png
+      └── notbook.ipynb
 ```
 
 ## How to Run
